@@ -26,3 +26,4 @@
 </div>
 
 
+![Snake animation](https://github.com/LeonardoDuct/LeonardoDuct/blob/output/github-contribution-grid-snake.svg)
