@@ -28,19 +28,20 @@
 
 <div align="center">
 
+  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=scala" width="48" title="Scala" alt="Scala"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" title="Kotlin" alt="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=kafka" width="48" title="Apache Kafka" alt="Apache Kafka"/>
+  <img src="https://skillicons.dev/icons?i=py" width="48" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="SQL Server" alt="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" width="48" title="GitLab" alt="GitLab"/>
   <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=angular" width="48" title="Angular" alt="Angular"/>
   <img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=scala" width="48" title="Scala" alt="Scala"/>
-  <img src="https://skillicons.dev/icons?i=py" width="48" title="Python" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=kafka" width="48" title="Apache Kafka" alt="Apache Kafka"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="SQL Server" alt="SQL Server"/>
-  <img src="https://skillicons.dev/icons?i=gitlab" width="48" title="GitLab" alt="GitLab"/>
 
 </div>
 
