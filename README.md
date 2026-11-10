@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img src="assets/samurai-outline.png" width="220" alt="Samurai"/>
@@ -7,7 +6,9 @@
 
   **Back-End Developer**
 
-  Building • Learning • Improving
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=E10600&center=true&vCenter=true&width=435&lines=Building+%E2%80%A2+Learning+%E2%80%A2+Improving;Java+%7C+Spring+%7C+Kafka;Always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
 
 </div>
 
@@ -17,9 +18,11 @@
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeonardoDuct&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=LeonardoDuct&theme=dark&background=0D1117&hide_border=true&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDuct&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+  <br/><br/>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoDuct&bg_color=0D1117&color=FFFFFF&line=E10600&point=FFFFFF&area=true&area_color=E10600&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 
 </div>
 
@@ -29,13 +32,19 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,angular,react,java,scala,python,spring,docker,kafka,postgres,gitlab&theme=dark" />
-
-</div>
-
-<div align="center">
-
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=angular" width="48" title="Angular" alt="Angular"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=scala" width="48" title="Scala" alt="Scala"/>
+  <img src="https://skillicons.dev/icons?i=py" width="48" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kafka" width="48" title="Apache Kafka" alt="Apache Kafka"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="SQL Server" alt="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" width="48" title="GitLab" alt="GitLab"/>
 
 </div>
 
@@ -50,4 +59,3 @@
   </a>
 
 </div>
-
