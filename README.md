@@ -20,10 +20,6 @@
 
   <img src="https://streak-stats.demolab.com?user=LeonardoDuct&theme=dark&background=0D1117&hide_border=true&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
 
-  <br/><br/>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoDuct&bg_color=0D1117&color=FFFFFF&line=E10600&point=FFFFFF&area=true&area_color=E10600&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-
 </div>
 
 ---
@@ -49,6 +45,8 @@
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=E10600"/>
 
 </div>
+
+---
 
 ## Connect with me
 
