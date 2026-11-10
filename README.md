@@ -28,25 +28,21 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/Scala-0D1117?style=for-the-badge&logo=scala&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=E10600"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=E10600"/>
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=E10600"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=E10600"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=angular" width="48" title="Angular" alt="Angular"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=scala" width="48" title="Scala" alt="Scala"/>
+  <img src="https://skillicons.dev/icons?i=py" width="48" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kafka" width="48" title="Apache Kafka" alt="Apache Kafka"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="SQL Server" alt="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" width="48" title="GitLab" alt="GitLab"/>
 
 </div>
-
----
 
 ## Connect with me
 
